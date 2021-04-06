@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @August1914
-- 👀 I’m interested in productivity, string theory, craft beer
+- 👀 I’m interested in sleep, Carpathian folk music, string theory, craft beer
 - 🌱 I’m currently learning Vue, Nuxt, Tailwind, GraphQL, Figma, FaunaDB
 - 💞️ I’m looking to collaborate on Strategy as Code
 - 📫 How to reach me mgodeck@gmail.com
