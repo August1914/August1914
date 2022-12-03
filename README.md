@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @August1914
 - 👀 I’m interested in sleep, Carpathian folk music, string theory, craft beer
-- 🌱 I’m currently learning Svelte, Tailwind, GraphQL, Figma
+- 🌱 I’m currently learning Svelte and TailwindCSS
 - 💞️ I’m looking to collaborate on Strategy as Code
 - 📫 How to reach me mgodeck@gmail.com
 
